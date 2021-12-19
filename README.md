@@ -1,0 +1,2 @@
+# Hill-Climbing-Algorithm-for-breaching-Diffie-Hellman-key-exchange
+This script is used for breaching Diffie-Hellman key exchange using stochastic hill climbing with random restarts. The algorithm actually tries to solve the NP-Complete problem (for small enough parameters) of the discrete logarithm, on which Diffie-Hellman key exchange (and also a vast majority of the public key cryptographic algorithms) are based
